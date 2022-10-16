@@ -49,7 +49,7 @@
 
 ### Ответ
 
-Ссылка на [pom.xml(./mvn/pom.xml)
+Ссылка на [pom.xml](./mvn/pom.xml)
 
 Скриншот директории [~/.m2/repository/](./homework/maven.png)
 
